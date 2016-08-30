@@ -1,4 +1,8 @@
-[![Build Status](https://travis-ci.org/roverdotcom/django-inlinecss.png?branch=master)](https://travis-ci.org/roverdotcom/django-inlinecss)
+# About LendingRobot fork 
+
+We use version 0.1.1 with the addition of settings.INLINECSS_USE_LOCAL_FINDER
+so we can force the template tag to look in src static folders instead of 
+staticfiles (which is Cloudfront for us). 
 
 ## About
 
