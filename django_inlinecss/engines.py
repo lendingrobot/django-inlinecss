@@ -1,4 +1,4 @@
-import pynliner
+from django_inlinecss import pynliner
 
 
 class EngineBase(object):
